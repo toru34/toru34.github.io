@@ -34,8 +34,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-disqus: toru34
-  # shortname: toru34-github-io
+disqus:
+  shortname: toru34-github-io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
