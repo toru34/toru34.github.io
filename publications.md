@@ -6,14 +6,11 @@ permalink: /Research/
 
 ## Journal
 
-1. **Toru Fujino**, Yu Chen. Effects of Network Structure on the Performance of a Modeled Traffic Network under Drivers' Bounded Rationality. *Physica A: Statistical Mechanics and its Applications*. 2020
-    - Paper: <a href="https://doi.org/10.1016/j.physa.2019.122228" target="_blank">link</a>
-    - Code: <a href="https://github.com/toru34/fujino_physica_2019" target="_blank">link</a>
+1. **Toru Fujino**, Yu Chen. Effects of Network Structure on the Performance of a Modeled Traffic Network under Drivers' Bounded Rationality. *Physica A: Statistical Mechanics and its Applications*. 2020. [<a href="https://doi.org/10.1016/j.physa.2019.122228" target="_blank">Paper</a>] [<a href="https://github.com/toru34/fujino_physica_2019" target="_blank">Code</a>]
 
 ## Conference Proceeding
 
-1. Masaru Isonuma, **Toru Fujino**, Ichiro Sakata, Yutaka Matsuo, Junichiro Mori. Extractive Summarization Using Multi-Task Learning with Document Classification. *Conference on Empirical Methods in Natural Language Processing (EMNLP)* (Poster. Refereed). 2017
-    - Paper: <a href="https://doi.org/10.18653/v1/D17-1223" target="_blank">link</a>
+1. Masaru Isonuma, **Toru Fujino**, Ichiro Sakata, Yutaka Matsuo, Junichiro Mori. Extractive Summarization Using Multi-Task Learning with Document Classification. *Conference on Empirical Methods in Natural Language Processing (EMNLP)* (Poster. Refereed). 2017. [<a href="https://doi.org/10.18653/v1/D17-1223" target="_blank">Paper</a>]
 
 ## Conference Presentations (without proceedings)
 
@@ -23,6 +20,5 @@ permalink: /Research/
 
 ## Others
 
-1. 決算サマリー. 2017.
+1. 決算サマリー. 2017. [<a href="https://pr.nikkei.com/qreports-ai/" target="_blank">Project page</a>]
     - This is a collaborative research project with The Nikkei (the world largest financial newspaper company) to develop an algorithm which automatically generates financial articles.
-    - Project page: <a href="https://pr.nikkei.com/qreports-ai/" target="_blank">link</a>
