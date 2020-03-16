@@ -8,7 +8,7 @@ I am Toru Fujino (藤野 暢), a Ph.D. student at Graduate School of Frontier Sc
 
 ## Work
 - Jan. 2020 - Present: Project Researcher (part-time). National Cancer Center Hospital East.
-- Dec. 2015 - Apr. 2018 & Oct. 2018 - Nov. 2019: Data Scientist. IGPI Business Analytics & Intelligence, Inc.
+- Dec. 2015 - Apr. 2018 & Oct. 2018 - Nov. 2019: Data Scientist (part-time). IGPI Business Analytics & Intelligence, Inc.
 
 ## Education
 - Apr. 2016 - Present: Ph.D. student, Graduate School of Frontier Sciences, The University of Tokyo, Japan.
