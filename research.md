@@ -20,5 +20,5 @@ permalink: /Research/
 
 ### Others
 
-1. 決算サマリー. 2017. [<a href="https://pr.nikkei.com/qreports-ai/" target="_blank">Project page</a>]
-    - This is a collaborative research project with The Nikkei (the world largest financial newspaper company) to develop an algorithm which automatically generates financial articles.
+1. 決算サマリー. 2017. [<a href="https://pr.nikkei.com/qreports-ai/" target="_blank">Project page (in Japanese)</a>]
+    - This is a collaborative research project with The Nikkei (the world largest financial newspaper) to develop an algorithm which automatically generates financial articles.
