@@ -5,7 +5,7 @@ permalink: /implementations/
 ---
 
 One of my hobbies is to implement previously published research papers and reproduce the results of them.
-It is not only good for me to improve my coding skills, but also understand the research topics better.
+It is good for me to not only improve my coding skills, but also understand the research topics better.
 Here is the list of papers I have implemented and their GitHub links.
 All papers are implemented in either C++ or Python. (Some of them are no longer maintained. Sorry)
 
