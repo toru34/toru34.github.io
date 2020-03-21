@@ -5,7 +5,7 @@ permalink: /implementations/
 ---
 
 One of my hobbies is to implement previously published research papers and reproduce the results of them.
-Here is the list of papers which I have implemented so far.
+Here is the list of papers I have implemented and GitHub links.
 All papers are implemented in either C++ or Python. (Some of them are no longer maintained. Sorry)
 
 ### Complex adaptive systems
