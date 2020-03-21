@@ -5,6 +5,7 @@ permalink: /implementations/
 ---
 
 One of my hobbies is to implement previously published research papers and reproduce the results of them.
+It is not only good for me to improve my coding skills, but also understand the research topics better.
 Here is the list of papers I have implemented and their GitHub links.
 All papers are implemented in either C++ or Python. (Some of them are no longer maintained. Sorry)
 
@@ -14,8 +15,7 @@ All papers are implemented in either C++ or Python. (Some of them are no longer 
 
 ### Natural language processing
 
-1. \[<a href="https://github.com/toru34/kim_emnlp_2014" target="_blank">Python</a>\]: Y. Kim. Convolutional Neural Networks for Sentence Classification. EMNLP. 2014.
-
+- \[<a href="https://github.com/toru34/kim_emnlp_2014" target="_blank">Python</a>\]: Y. Kim. Convolutional Neural Networks for Sentence Classification. EMNLP. 2014.
 
 - \[<a href="https://github.com/toru34/rush_emnlp_2015" target="_blank">Python</a>\]: A. M. Rush et al. A Neural Attention Model for Sentence Summarization. EMNLP. 2015.
 
