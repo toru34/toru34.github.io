@@ -13,6 +13,8 @@ All papers are implemented in either C++ or Python. (Some of them are no longer 
 
 - \[<a href="https://github.com/toru34/minority_game" target="_blank">C++</a>\]: D. Challet and Y.-C. Zhang. Emergence of cooperation and organization in an evolutionary game. Physica A. 1997.
 
+- \[<a href="https://github.com/toru34/Andrecut_PRE_2001" target="_blank">C++</a>\]: M. Andrecut and M. K. Ali. Q learning in the minority game. Physical Review E. 2001.
+
 ### Natural language processing
 
 - \[<a href="https://github.com/toru34/kim_emnlp_2014" target="_blank">Python</a>\]: Y. Kim. Convolutional Neural Networks for Sentence Classification. EMNLP. 2014.
