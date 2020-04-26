@@ -12,11 +12,11 @@
 
 - Python
     - 2015年から現在まで, ML/NLP/DL等の用途で使用.
-    - 使用ライブラリ: NumPy, Matplotlib, Tensorflow(v1), PyTorch等.
+    - 使用ライブラリ: NumPy, Matplotlib, Tensorflow(v1), PyTorch, DyNet等.
     - 参考となるレポジトリ
-        - VAEを用いたテキスト生成モデル (EMNLP2019で発表された論文の再現実装. 開発途中): https://github.com/toru34/li_emnlp_2019
-        - GANを用いたテキスト生成モデル (NeurIPS2019で発表された論文の再現実装. 開発途中): https://github.com/toru34/dautume_neurips_2019
-        - VAE+Encoder-Decoderを用いた文書要約モデル (EMNLP2017で発表された論文の再現実装): https://github.com/toru34/li_emnlp_2017
+        - VAEを用いたテキスト生成モデル (EMNLP2019で発表された論文の再現実装. 開発途中. TensorFlow): https://github.com/toru34/li_emnlp_2019
+        - GANを用いたテキスト生成モデル (NeurIPS2019で発表された論文の再現実装. 開発途中. PyTorch): https://github.com/toru34/dautume_neurips_2019
+        - VAE+RNNを用いた文書要約モデル (EMNLP2017で発表された論文の再現実装. DyNet): https://github.com/toru34/li_emnlp_2017
 - C++:
     - 2014年から現在まで, 修士/博士での研究 (Agent-basedモデルの構築) 等で使用.
     - 使用ライブラリ: 基本的なSTL, スマートポインタ等.
@@ -60,7 +60,7 @@
         - NumPy, TensorFlowの低レベルなAPIを用いた実装が中心.
         - NumPyによるkNNの実装, NumPyによるMLP/RNNの実装, TensorFlow入門, RNNを用いた機械翻訳, CNN+RNNを用いた画像のキャプション生成の回を主に担当.
     - Deep Learning for NLP サマースクール (2018年) \[[Link](https://deeplearning.jp/deep-learning-for-nlp/)]
-        - 大学院生向けの短期講座 (全6回) .
+        - 大学院生向けの短期集中講座 (全6回) .
         - PyTorch入門, 生成モデル (VAE, GAN) を用いたテキスト生成の回の教材作成を主に担当.
 
 #### 2. 新聞記事の自動生成アルゴリズムの開発 (日経新聞社との共同研究, 2015.12 ~ 2018.01頃)
@@ -81,4 +81,4 @@
     - 開発を行う際に日常的に使用.
 
 ## 補足
-- この職務経歴書の作成に際して「エンジニアが読みたくなる職務経歴書」https://dwango.github.io/articles/engineers-resume/ を参考にさせていただきました.
+- 「エンジニアが読みたくなる職務経歴書」https://dwango.github.io/articles/engineers-resume/ を参考に作成しました.
