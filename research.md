@@ -16,7 +16,7 @@ permalink: /research/
 
 1. **Toru Fujino**, Yu Chen. Do Stylized Facts in Financial Markets Collapse Due to the Artificial Intelligence Analysis of Other Traders Bahavior? *Conference on Complex Systems (CCS)* (Oral. Refereed). 2019
 2. **Toru Fujino**, Yu Chen. Effects of Network Structures on the Performance of a Modeled Traffic Network with Drivers’ Preference Heterogeneity. *The 3rd Annual International Conference on Computational Social Science (IC2S2)* (Poster. Refereed). 2017.
-3. **Toru Fujino**, Kangwei Chen, Yu Chen. Study on Transport Costs across Network Using a Minority Game Model with Imperfect Information. *Social Modeling and Simulations + Econophysics Colloquim (SMSEC)* (Oral. Refereed). 2014
+3. **Toru Fujino**, Kangwei Chen, Yu Chen. Study on Transport Costs across Network Using a Minority Game Model with Imperfect Information. *Social Modeling and Simulations + Econophysics Colloquim (SMSEC)* (Oral. Refereed). 2014.
 
 ### Others
 
