@@ -1,6 +1,11 @@
 body {
     line-height: 150%;
     font-family: sans-serif;
+    background-color: #FFFFFF;
+    min-width: 600px;
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 30px 50px;
 }
 
 h1 {
@@ -15,3 +20,10 @@ h2 {
     margin: 25px 0px 20px;
     font-weight: 200;
 }
+
+h3 {
+    color: #0C6B9E;
+    margin: 20px 12px 8px;
+    font-size: 20px;
+}
+
