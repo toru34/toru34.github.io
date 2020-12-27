@@ -1,4 +1,4 @@
-body {
+/* .wrapper {
     line-height: 150%;
     font-family: sans-serif;
     background-color: #FFFFFF;
@@ -6,6 +6,13 @@ body {
     max-width: 1000px;
     margin: 40px auto;
     padding: 30px 50px;
+}
+
+body {
+    background-color: #222222;
+    color: #111111;
+    line-height: 150%;
+    font-family: sans-serif;
 }
 
 h1 {
@@ -26,4 +33,4 @@ h3 {
     margin: 20px 12px 8px;
     font-size: 20px;
 }
-
+ */
