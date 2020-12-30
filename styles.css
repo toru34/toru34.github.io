@@ -14,12 +14,12 @@ body {
 }
 
 h1 {
-    color: orange;
+    color: #0C6B9E;
     font-weight: 200;
 }
 
 h2 {
-    background-color: darkorange;
+    background-color: #044568;
     color: #FFFFFF;
     padding: 8px 10px;
     margin: 25px 0px 20px;
@@ -27,7 +27,7 @@ h2 {
 }
 
 h3 {
-    color: orange;
+    color: #0C6B9E;
     margin: 20px 12px 8px;
     font-size: 20px;
 }
