@@ -5,3 +5,4 @@ datasets
 practice
 sandbox
 .ipynb_checkpoints
+*.pdf
