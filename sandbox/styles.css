@@ -1,0 +1,33 @@
+/* This style is partially based on http://www-imai.is.s.u-tokyo.ac.jp/~yyano/index_ja.html */
+
+#wrapper {
+    background-color : #FFFFFF;
+    margin : 30px 30px 30px 30px;
+    padding : 30px 50px;
+}
+
+body {
+    background-color: black;
+    color: black;
+    line-height: 170%;
+    font-family: Trebuchet MS;
+}
+
+h1 {
+    color: #0C6B9E;
+    font-weight: 200;
+}
+
+h2 {
+    background-color: #044568;
+    color: #FFFFFF;
+    padding: 8px 10px;
+    margin: 25px 0px 20px;
+    font-weight: 200;
+}
+
+h3 {
+    color: #0C6B9E;
+    margin: 20px 12px 8px;
+    font-size: 20px;
+}
