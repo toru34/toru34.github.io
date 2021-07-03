@@ -1,14 +1,5 @@
-# toru34
-.DS_Store
-_*
-datasets
-practice
-sandbox
-textbooks
-.ipynb_checkpoints
-*.pdf
-
-# elm-package generated files
-elm-stuff
-# elm-repl generated files
-repl-temp-*
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
