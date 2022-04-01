@@ -1,5 +1,3 @@
-/* This style is partially based on http://www-imai.is.s.u-tokyo.ac.jp/~yyano/index_ja.html */
-
 #wrapper {
     background-color : #FFFFFF;
     margin : 30px 30px 30px 30px;
@@ -14,12 +12,12 @@ body {
 }
 
 h1 {
-    color: #0C6B9E;
+    color: #ff4500;
     font-weight: 200;
 }
 
 h2 {
-    background-color: #044568;
+    background-color: #ff4500;
     color: #FFFFFF;
     padding: 8px 10px;
     margin: 25px 0px 20px;
@@ -27,7 +25,7 @@ h2 {
 }
 
 h3 {
-    color: #0C6B9E;
+    color: #ff4500;
     margin: 20px 12px 8px;
     font-size: 20px;
 }
