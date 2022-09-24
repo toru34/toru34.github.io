@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="This is Toru's website">
+        <link rel="stylesheet" href="styles.css">
+        <link rel="icon" sizes="96x96" href="icon.png" type="image/png">
+        <title>Toru's Website</title>
+    </head>
+    <body>
+        <div id="wrapper">
+            <h1>Useful commands</h1>
+            <h3>tar</h3>
+                <ol style="list-style: none;">
+                    <li><code>$ tar -xzvf file.tar.gz # Extract archive file</code></li>
+                    <li><code>$ tar -zcvf file.tar.gz /path/to/dir # Create archive file</code></li>
+                </ol>
+            <h3>Docker</h3>
+                <ol style="list-style: none;">
+                    <li><code>
+                        $ docker run -it \<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;--mount type=bind,source=&lt;source-dir&gt;,target=&lt;target-dir&gt; \<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&lt;docker-image&gt; /bin/bash # Start docker container interactively with a mount
+                    </code></li>
+                </ol>
+            <h3>Vim</h3>
+                <ol style="list-style: none;">
+                    <li><code>
+                        " Install plugins<br>
+                        :PlugInstall<br>
+                        :UpdateRemotePlugins<br>
+                        :q<br>
+                        :q
+                    </code></li>
+                </ol>
+        </div>
+    </body>
+</html>
